@@ -1,5 +1,5 @@
 FROM java:8-alpine
-MAINTAINER Your Name <you@example.com>
+MAINTAINER Johan Mena <johan.menac@gmail.com>
 
 ADD target/uberjar/surely.jar /surely/app.jar
 
