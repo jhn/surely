@@ -1,0 +1,6 @@
+CREATE TABLE photos
+(id INTEGER PRIMARY KEY AUTO_INCREMENT,
+ name VARCHAR(100),
+ description VARCHAR(1000),
+ timestamp TIMESTAMP,
+);
